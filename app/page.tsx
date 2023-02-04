@@ -20,7 +20,7 @@ export default async function Home() {
         href={"/dashboard"}
         className="bg-teal-500 text-black font-medium py-2 px-4 rounded-md">
           Go to the dashboard
-          {/* COMMENT */}
+          {/* COMM */}
       </Link>
     
     
