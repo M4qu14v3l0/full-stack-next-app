@@ -18,6 +18,7 @@ export default function FormPost(){
         router.refresh()
         if(!res.ok) console.log(res.message)
     }
+    // comment
 
     return(
         <form onSubmit={submitPost}>
